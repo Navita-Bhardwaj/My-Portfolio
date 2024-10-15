@@ -1,0 +1,14 @@
+.portfolio-container{
+    display: flex;
+}
+.portfolio-content{
+    width: 100%;
+}
+.sidebar{
+    min-height: 800px;
+}
+.card-imgs{
+    width: 200px;
+    height: 200px;
+}
+
